@@ -28,7 +28,7 @@ class Author
   
 end
 
-# 
+# spec/author_spec.rb --fail-fast
 
 
 
