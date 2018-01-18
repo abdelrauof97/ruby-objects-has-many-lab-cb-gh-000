@@ -22,6 +22,10 @@ class Author
     post.author = self
   end
   
+  def song_count 
+    @@post_count
+  end
+  
 end
 
 
